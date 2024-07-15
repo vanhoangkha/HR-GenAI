@@ -1,4 +1,4 @@
-# Recruitment-Assistant
+# HR-Assistant
 
 ## Overview
 Recruitment-Assistant is a simple demonstration project that leverages Amazon Bedrock and the Anthropic Claude model, integrated with the LangChain library. For more details, please refer to the following links:
