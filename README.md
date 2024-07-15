@@ -14,8 +14,8 @@ To get started with Recruitment-Assistant, follow these steps:
 
 Clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/nguyendinhthi0705/Recruitment-Assistant.git
-cd Recruitment-Assistant
+git clone https://github.com/vanhoangkha/HR-GenAI.git
+cd HR-GenAI
 pip3 install -r requirements.txt
 streamlit run Home.py --server.port 8080
 ```
